@@ -163,22 +163,54 @@
 
 
 
-На маршрутизаторе настроила подинтерфейсы для интерфейса FastEthernet0/0, каждый из которых соответствует определенной vlan. 
-
-
-
 
 Добавила раздельные пулы IP-адресов для каждой отдельно взятой виртуальной подсети и настроила dhcp сервера для передачи голоса и данных на маршрутизаторе Cisco 2811.
+
+
+
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/53398280/231987670-10300a1a-fddf-411a-9bf2-3dbf8c470e63.png">
+
+
+
+
  
 
 Назначила компьютерам IP-адреса через DHCP.
+
+
+
+
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/53398280/231987711-076fa5a1-c195-4ab0-a8e0-a872ad80e119.png">
+
+
+
+
  
 
 Задала номера телефонов и совершила звонок между IP телефонами.
+
+
+
+
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/53398280/231987761-b28aeeaf-eede-47d7-94dc-5a5b9fc70bc6.png">
+
+
+
+
  
 
 Протестировала передачу данных с помощью ping.
- 
+
+
+
+
+
+ <img width="443" alt="image" src="https://user-images.githubusercontent.com/53398280/231987854-46d3198a-02e6-4d3b-ad35-0ddb8cd01b23.png">
+
+
 
 Вывод: в результате выполнения лабораторной работы было изучено построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco catalyst 3560 и IP телефонов Cisco 7960.
 
